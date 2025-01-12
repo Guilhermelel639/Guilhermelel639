@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Olá! Bem-vindo ao meu perfil no GitHub
 
-<!--
-**Guilhermelel639/Guilhermelel639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme Giampaolo Favaro Alves, sou um programador formado em Desenvolvimento de Sistemas pelo SENAI (2023-2024). Sou um entusiasta da tecnologia, sempre em busca de adquirir novos conhecimentos e participar de projetos que influenciam positivamente a vida das pessoas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 Competências Técnicas
+
+Front-End: HTML, CSS, JavaScript, React Native
+
+Back-End: Node.js, TypeScript
+
+Banco de Dados: SQL Server, PostgreSQL
+
+Outros: Integração entre front-end e back-end, APIs REST
+
+
+---
+
+🌱 Atualmente estudando
+
+Estou aprofundando meus conhecimentos em:
+
+React.js
+
+Node.js
+
+Boas práticas em desenvolvimento de software
+
+
+
+---
+
+📫 Entre em contato comigo
+
+E-mail: guilherme.gifaal@gmail.com
+
+Localização: Bebedouro, SP
