@@ -1,6 +1,7 @@
 👋 Olá! Bem-vindo ao meu perfil no GitHub | Welcome to my GitHub Profile
 
 Meu nome é Guilherme Giampaolo Favaro Alves, sou um programador formado em Desenvolvimento de Sistemas pelo SENAI (2023-2024). Sou um entusiasta da tecnologia, sempre em busca de adquirir novos conhecimentos e participar de projetos que influenciam positivamente a vida das pessoas.
+
 My name is Guilherme Giampaolo Favaro Alves, I am a developer graduated in Systems Development from SENAI (2023-2024). I am passionate about technology, always looking to learn new tools and contribute to projects that positively impact people's daily lives.
 
 ---
