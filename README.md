@@ -36,4 +36,6 @@ Boas práticas em desenvolvimento de software | Best practices in software devel
 
 E-mail: guilherme.gifaal@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/guilherme-giampaolo-58846734a
+
 Localização | Location: Bebedouro, SP
